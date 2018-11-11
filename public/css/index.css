@@ -1,0 +1,10 @@
+#add, #start-over {
+  width: 10%;
+}
+#generate {
+  width: 20%;
+}
+
+#start-over {
+  float: right;
+}
