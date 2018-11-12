@@ -27,9 +27,11 @@ router.post('/cards', function(req, res) {
   var fileContents = "";
 
   for(var i=1; i < pinyinTerms.length; i++) {
-    fileContents += (pinyinTerms[i].innerHTML + ',' + englishTerms[i-1].innerHTML + '\n');
-  }
 
+    pinyinTerm = (pinyinTerms[i-1].innerHTML).replace(new RegExp(',', 'g'), '');
+    englishTerm = (englishTerms[i-1].innerHTML).replace(new RegExp(',', 'g'), '');
+    fileContents += (pinyinTerm + ',' + englishTerm + '\n');
+  }
   const filePath = path.join(path.resolve(__dirname, '..') + '/public/file.txt');
   fs.appendFile(filePath, fileContents, function(err) {
     if(err) {

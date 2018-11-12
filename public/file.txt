@@ -1,27 +1,40 @@
-qǐng wèn,May I ask___? 
-wèn,to ask
-nín,you (polite)
-chēng hū,to address someone
-xìng,to be last named as (verb),last name (noun)
-xiān sheng,Mr.
-sūn xiān sheng,Mr. Sun 
-guì,of high rank, expensive
-tài guì le,too expensive
-nǐ jiào shén me míng zi,What’s your name?
-wǒ jiào____,My name is ___.
-qǐng wèn nǐ jiào shén me míng zi,May I ask what your name is?
-nín zěn me chēng hū,How should I address you?
-wǒ xìng sūn,My last name is Sun.
-guì,of high rank, expensive
-tài guì le,too expensive
-miǎn,to avoid or to remove
-jiào wǒ,call me
-___jiù kě yǐ le,___will do / be all right
-___jiù xíng le,___will do / be all right
-nín guì xìng,What’s your honorable last name?
-miǎn guì xìng liú,My last name is Liu.
-qǐng wèn guì xìng,May I ask what your honorable last name is?
-jiào wǒ ___ jiù kě yǐ le,Call me ____ will do / be all right.
-jiào wǒ ___ jiù xíng le,Call me ____ will do / be all right.
-jiào wǒ John jiù kě yǐ le,Calling me John will do.
-jiào wǒ john jiù xíng le,Calling me John will do.
+ā,a few or several
+jǐ ge,question
+wèn tí,sorry 
+duì bu qǐ,sorry 
+bù hǎo yì si,sorry 
+bào qiàn,time
+shí jiān,don’t have time
+méi yǒu shí jiān,Excuse me.
+dǎ rǎo yí xià,Can (I) ask (you) a few questions?
+wèn jǐ ge wèn tí xíng ma,Can (I) ask (you) a few questions?
+wǒ wèn nǐ jǐ ge wèn tí xíng ma,Say a few words.
+shuō jǐ jù,I’m sorry.
+duì bu qǐ,Sorry about that. / I feel bad.
+bù hǎo yì si,Sorry sorry I don’t have time now.
+duì bu qǐ bù hǎo yì si xiàn zài méi shí jiān,Sorry sorry I don’t have time now.
+bào qiàn bù hǎo yì si xiàn zài méi shí jiān,do things/handle your affairs
+bàn shì(r),do manage handle
+bàn,a thing a matter or some business
+shì,a thing a matter or some business
+shì qíng,a little
+ā,have to (do something)
+yào,have things to handle
+yǒu shì yào bàn,have things to handle
+yǒu shì(r) yào bàn,to chase / to try to catch
+gǎn,time 
+shí jiān,chasing time and trying to catch it
+gǎn shí jiān,try to catch a flight
+gǎn fēi jī,try to catch a train
+gǎn huǒ chē,We have to do something.
+wǒ men yǒu diǎn shì yào bàn,We have to do something.
+wǒ men yǒu diǎn(r) shì(r) yào bàn,We have to do something.
+wǒ men yào bàn shì,I have to handle some family matter.
+wǒ jiā lǐ yǒu diǎn shì yào bàn,I have to handle some family matter.
+wǒ jiā lǐ yǒu diǎn(r) shì(r) yào bàn,Sorry to have bothered you just now.
+dǎ rǎo le,I’m in a hurry.
+wǒ gǎn shí jiān,I have to catch my bus.
+wǒ yào gǎn chē,I have to catch my flight.
+wǒ děi gǎn fēi jī,I have to catch the train.
+wǒ děi gǎn huǒ chē,This is a little bit rushed.
+yǒu diǎn(r) gǎn,Excuse me may I bother you real quick?
