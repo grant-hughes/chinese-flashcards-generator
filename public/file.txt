@@ -1,40 +1,53 @@
-ā,a few or several
-jǐ ge,question
-wèn tí,sorry 
-duì bu qǐ,sorry 
-bù hǎo yì si,sorry 
-bào qiàn,time
-shí jiān,don’t have time
-méi yǒu shí jiān,Excuse me.
-dǎ rǎo yí xià,Can (I) ask (you) a few questions?
-wèn jǐ ge wèn tí xíng ma,Can (I) ask (you) a few questions?
-wǒ wèn nǐ jǐ ge wèn tí xíng ma,Say a few words.
-shuō jǐ jù,I’m sorry.
-duì bu qǐ,Sorry about that. / I feel bad.
-bù hǎo yì si,Sorry sorry I don’t have time now.
-duì bu qǐ bù hǎo yì si xiàn zài méi shí jiān,Sorry sorry I don’t have time now.
-bào qiàn bù hǎo yì si xiàn zài méi shí jiān,do things/handle your affairs
-bàn shì(r),do manage handle
-bàn,a thing a matter or some business
-shì,a thing a matter or some business
-shì qíng,a little
-ā,have to (do something)
-yào,have things to handle
-yǒu shì yào bàn,have things to handle
-yǒu shì(r) yào bàn,to chase / to try to catch
-gǎn,time 
-shí jiān,chasing time and trying to catch it
-gǎn shí jiān,try to catch a flight
-gǎn fēi jī,try to catch a train
-gǎn huǒ chē,We have to do something.
-wǒ men yǒu diǎn shì yào bàn,We have to do something.
-wǒ men yǒu diǎn(r) shì(r) yào bàn,We have to do something.
-wǒ men yào bàn shì,I have to handle some family matter.
-wǒ jiā lǐ yǒu diǎn shì yào bàn,I have to handle some family matter.
-wǒ jiā lǐ yǒu diǎn(r) shì(r) yào bàn,Sorry to have bothered you just now.
-dǎ rǎo le,I’m in a hurry.
-wǒ gǎn shí jiān,I have to catch my bus.
-wǒ yào gǎn chē,I have to catch my flight.
-wǒ děi gǎn fēi jī,I have to catch the train.
-wǒ děi gǎn huǒ chē,This is a little bit rushed.
-yǒu diǎn(r) gǎn,Excuse me may I bother you real quick?
+ā,I will not go to China tomorrow.
+míng tiān wǒ bú qù zhōng guó ,I don’t eat breakfast.
+wǒ bù chī zǎo fàn,I am not busy.
+wǒ bù máng,I am not Chinese.
+wǒ bú shì zhōng guó rén ,the negation word to negate the verb “to have” and past actions
+méi,I don’t have money.
+wǒ méi yǒu qián ,I don’t have siblings.
+wǒ méi yǒu xiōng dì jiě mèi,I didn’t go.
+wǒ méi qù,I haven’t had Thai food before.
+wǒ méi chī guò tài guó cài,I don’t eat breakfast.
+wǒ bù chī zǎo fàn,I didn’t eat breakfast.
+ā,holiday
+jié,holiday
+jié rì,day
+rì,most like
+zuì xǐ huān,Spring Festival / Chinese New Year
+chūn jié,favorite
+zuì xǐ huān de,vacation long
+jià cháng,vacation
+jià,long
+cháng,have a holiday / go on vacation
+fàng jià,to set free or release
+fàng,ha ha / tee hee
+xi xi,What’s your favorite Chinese city?
+nǐ zuì xǐ huān zhōng guó de nǎ ge chéng shì,What’s your favorite holiday?/Which holiday do you like the most? 
+nǐ zuì xǐ huān nǎ ge jié rì,Tomorrow we’re having a vacation./We have tomorrow off.
+míng tiān wǒ men fàng jià,We’re having next week off.
+xià ge xīng qī wǒ men fàng jià,October First 
+shí yī,October First 
+shí yuè yī hào,National Day for China
+zhōng guó guó qìng jié,country or national
+ā,celebrate
+qìng,celebrate
+qìng zhù,National Day 
+guó qìng jié,U.S. Independence Day
+měi guó guó qìng jié,Canadian Independence Day
+jiā ná dà guó qìng jié,weather 
+tiān qì,sky
+tiān,air or temper
+qì,to compare or fairly / pretty
+bǐ jiào,fairly good or pretty good
+bǐ jiào hǎo,to be suitable for
+shì hé,to go out /to go do something
+chū qù,travel / travel in a touristy way
+lǚ yóu,to go out and travel
+chū qù lǚ yóu,travel for business
+chū chāi,travel home / go back home
+huí jiā,What a beautiful weather today!
+jīn tiān tiān qì zhēn hǎo,Because the weather is fairly good during the October 1st holiday.
+yīn wèi shí yī tiān qì bǐ jiào hǎo,It is suitable for going out and traveling.
+shì hé chū qù lǚ yóu,What do you think of my shirt?
+ā,It really suits you.
+hěn shì hé nǐ,It doesn’t suit you.
