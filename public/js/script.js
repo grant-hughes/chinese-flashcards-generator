@@ -8,7 +8,7 @@ $(document).ready(function() {
     pageCount++;
     $('#page-count').text('Pages: ' + pageCount);
     $.ajax({
-      url: 'http://localhost:3000/cards',
+      url: 'http://localhost:5000/cards',
       type: 'post',
       dataType: 'text',
       contentType: 'text/plain',
@@ -22,7 +22,7 @@ $(document).ready(function() {
   });
 
   $('#generate').click(function() {
-    const fileUrl = 'http://localhost:3000/static/file.txt';
+    const fileUrl = 'http://localhost:5000/static/file.txt';
     $('#link').attr('href', fileUrl);
     $('#link').text(fileUrl);
   })
@@ -32,7 +32,7 @@ $(document).ready(function() {
     pageCount = 0;
     $('#page-count').text('Pages: ' + pageCount);
     $.ajax({
-      url: 'http://localhost:3000/cards',
+      url: 'http://localhost:5000/cards',
       type: 'delete',
       success: function(data, error) {
         console.log('reset cards');
