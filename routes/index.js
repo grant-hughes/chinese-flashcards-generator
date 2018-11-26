@@ -28,7 +28,7 @@ router.post('/cards', function(req, res) {
 
   for(var i=1; i < pinyinTerms.length; i++) {
 
-    pinyinTerm = (pinyinTerms[i-1].innerHTML).replace(new RegExp(',', 'g'), '');
+    pinyinTerm = (pinyinTerms[i].innerHTML).replace(new RegExp(',', 'g'), '');
     englishTerm = (englishTerms[i-1].innerHTML).replace(new RegExp(',', 'g'), '');
     fileContents += (pinyinTerm + ',' + englishTerm + '\n');
   }
